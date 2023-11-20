@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "catsnetworkmanager",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/mmchedlidze/CatsNetworkManager",
+      "state" : {
+        "branch" : "main",
+        "revision" : "0aa2ff4991446c7a79d996c70e4660b8c6593bd3"
+      }
+    }
+  ],
+  "version" : 2
+}
